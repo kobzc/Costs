@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "name": "Projeto teste",
-      "budget": "5000",
+      "name": "Projeto atualizado",
+      "budget": "13000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
