@@ -7,8 +7,21 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 200,
+      "services": [
+        {
+          "name": "Serviço teste",
+          "cost": "100",
+          "description": "Teste de validação",
+          "id": "b9eca54f-0d40-4865-8b42-1e93c0de283c"
+        },
+        {
+          "name": "Serviço teste",
+          "cost": "100",
+          "description": "Teste de validação",
+          "id": "b9eca54f-0d40-4865-8b42-1e93c0de283c"
+        }
+      ],
       "id": 1
     }
   ],
